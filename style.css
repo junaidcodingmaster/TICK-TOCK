@@ -1,0 +1,12 @@
+body{
+  background: #a9e4f7;
+background: -moz-linear-gradient(-45deg,  #a9e4f7 0%, #0fb4e7 100%);
+background: -webkit-linear-gradient(-45deg,  #a9e4f7 0%,#0fb4e7 100%);
+background: linear-gradient(135deg,  #a9e4f7 0%,#0fb4e7 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a9e4f7', endColorstr='#0fb4e7',GradientType=1 );
+text-align: center;
+font-family: 'Noto Sans HK', sans-serif;
+}
+h2{
+  text-align: end;
+}
